@@ -1,6 +1,6 @@
 # Hi, I'm TbT480
 
-Full-stack developer focused on backend systems, web development, game server revivals, and experimental software projects.
+Full-stack developer focused on backend systems, web development, and experimental software projects.
 
 ## Tech Stack
 C#, Java, Python, JavaScript, HTML, CSS, React.js, ASP.NET, Razor Pages, Flask, MySQL
@@ -11,7 +11,6 @@ C#, Java, Python, JavaScript, HTML, CSS, React.js, ASP.NET, Razor Pages, Flask, 
 ## What I Do
 - Full-stack web development
 - Backend APIs and server infrastructure
-- Rec Room revival and preservation projects
 - Reverse engineering older online services
 - Networking and custom software tools
 
